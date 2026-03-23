@@ -1,0 +1,377 @@
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 10 x 6
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: XXoooXXXoo
+Line: XooooooooX
+Line: XooooooooX
+Line: Xooooooooo
+Line: Xooooo@ooo
+Line: XXXXooXooo
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+Killing 0 pacman
+
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 10 x 6
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: XXoooXXXoo
+Line: XooooooooX
+Line: XooooooooX
+Line: Xooooooooo
+Line: Xooooo@ooo
+Line: XXXXooXooo
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+Killing 0 pacman
+
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 10 x 6
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: XXoooXXXoo
+Line: XooooooooX
+Line: XooooooooX
+Line: Xooooooooo
+Line: Xooooo@ooo
+Line: XXXXooXooo
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 10 x 6
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: XXoooXXXoo
+Line: XooooooooX
+Line: XooooooooX
+Line: Xooooooooo
+Line: Xooooo@ooo
+Line: XXXXooXooo
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+Killing 0 pacman
+
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+Killing 0 pacman
+
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 10 x 6
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: XXoooXXXoo
+Line: XooooooooX
+Line: XooooooooX
+Line: Xooooooooo
+Line: Xooooo@ooo
+Line: XXXXooXooo
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 10 x 6
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: XXoooXXXoo
+Line: XooooooooX
+Line: XooooooooX
+Line: Xooooooooo
+Line: Xooooo@ooo
+Line: XXXXooXooo
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+Killing 0 pacman
+
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+Killing 0 pacman
+
+DIM = 21 x 11
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: ooooooXXXXXXXXXXXXXXX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: ooooooooXXooooooooooX
+Line: oo@oooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XoooooooXXooooooooooX
+Line: XXXXXXXXXXXXXXXXXXXXX
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
+DIM = 10 x 6
+TEMPO = 50
+MON file: ./teste/1.mon
+MON file: ./teste/2.mon
+Line: XXoooXXXoo
+Line: XooooooooX
+Line: XooooooooX
+Line: Xooooooooo
+Line: Xooooo@ooo
+Line: XXXXooXooo
+Ghost passo: 1
+Ghost Pos = 5 x 4
+Ghost passo: 0
+Ghost Pos = 3 x 2
+Creating threads
