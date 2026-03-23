@@ -1,6 +1,6 @@
 # PACMAN
 
-PACMAN é um projeto desenvolvido para a cadeira de Sistema Operativos. O objetivo é criar o jogo PACMAN utilizando interação cliente-servidor com paralelização usando várias threads para aceleração do jogo.
+PACMAN é um projeto desenvolvido em grupo (dois elementos) para a cadeira de Sistema Operativos. O objetivo é criar o jogo PACMAN utilizando interação cliente-servidor com paralelização usando várias threads para aceleração do jogo.
 
 O projeto consite em:
 
@@ -25,7 +25,7 @@ Como compilar e correr:
         Lançar na forma (id_do_cliente      nome_do_FIFO_de_registo       ficheiro_pacman) 
         #Coloque ficheiro_pacman se não quiser controlar manualmente, e que seja pré definido 
             Ex: ./bin/client 2 /tmp/pipe.pipe 
-    
+
 
 
 
